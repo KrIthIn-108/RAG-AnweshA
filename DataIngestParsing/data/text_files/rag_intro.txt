@@ -1,0 +1,10 @@
+Retrieval-Augmented Generation (RAG) is an artificial intelligence technique that improves large language model (LLM) accuracy by pulling facts from external data sources before writing an answer.
+How RAG Works
+• User Query: A user types a question into the system.
+• Information Retrieval: The system searches an external database or document collection for text that matches the question.
+• Prompt Augmentation: The system combines the user's original question with the retrieved facts into a single instruction.
+• Response Generation: The language model reads the added facts and writes a clear, factual reply.
+Key Benefits
+• Fewer Mistakes: It stops the AI from guessing or making up false facts (hallucinations) by grounding answers in real documents.
+• Fresh Data: It bypasses the fixed end date of a model's training data by reading live or updated files.
+• Lower Cost: It avoids the expensive process of retraining or fine-tuning an entire AI model.

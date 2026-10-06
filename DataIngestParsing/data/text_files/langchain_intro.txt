@@ -1,0 +1,21 @@
+LANGCHAIN INTRODUCTION SUMMARY
+1. OVERVIEW
+LangChain is an open-source framework for building applications with 
+Large Language Models (LLMs) like GPT-4 or Gemini. It provides standard 
+interfaces to connect models with data, memory, and external tools.
+
+2. WHY USE LANGCHAIN?
+- Unified API: Switch between different LLM providers easily.
+- Modularity: Swap out prompts, models, and vector stores seamlessly.
+- Reduced Code: Turn 100+ lines of raw API calls into short, readable chains.
+
+3. CORE MODULES
+- Model I/O: Prompt templates, language models, and output parsers.
+- Retrieval: Document loaders, text splitters, embeddings, and vector stores.
+- Chains: Combining multiple components for sequential tasks (LCEL).
+- Agents: Letting LLMs decide actions and use tools dynamically.
+
+4. COMMON USE CASES
+- Retrieval-Augmented Generation (RAG) for private document Q&A.
+- Conversational chatbots with memory of past chats.
+- Autonomous AI agents that execute multi-step tasks.
