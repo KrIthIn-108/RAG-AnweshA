@@ -1,6 +1,6 @@
 langchain
 langchain-groq
-langchain-community 
+langchain_community 
 langchain-openai
 faiss-cpu
 tiktoken
@@ -12,3 +12,6 @@ ipykernel
 pandas
 docx
 python-docx
+
+# Handling PDFs
+pymupdf
