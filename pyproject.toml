@@ -10,6 +10,7 @@ requires-python = ">=3.13"
 dependencies = [
     "chromadb>=1.5.9",
     "docx>=0.2.4",
+    "docx2txt>=0.9",
     "faiss-cpu>=1.15.1",
     "ipykernel>=7.4.0",
     "langchain>=1.4.3",
@@ -24,6 +25,7 @@ dependencies = [
     "python-dotenv>=1.2.4",
     "sentence-transformers>=6.1.0",
     "tiktoken>=0.14.0",
+    "unstructured>=0.27.22",
 ]
 
 [project.scripts]

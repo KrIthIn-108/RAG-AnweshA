@@ -10,8 +10,11 @@ pypdf
 python-dotenv
 ipykernel
 pandas
-docx
+unstructured
 python-docx
 
 # Handling PDFs
 pymupdf
+# Handling DOCX
+docx2txt
+docx
