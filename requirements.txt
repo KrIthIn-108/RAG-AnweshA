@@ -18,3 +18,8 @@ pymupdf
 # Handling DOCX
 docx2txt
 docx
+
+#CSV&excel ra
+openpyxl
+xlrd
+msoffcrypto
