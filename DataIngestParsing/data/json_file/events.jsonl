@@ -1,0 +1,6 @@
+{"timestamp": "2024-01-01", "event": "user_login", "user_id": 123}
+{"timestamp": "2024-01-01", "event": "page_view", "user_id": 123, "page": "/home"}
+{"timestamp": "2024-01-01", "event": "purchase", "user_id": 853, "amount": 89}
+{"timestamp": "2024-01-05", "event": "page_view", "user_id": 853, "page": "/home"}
+{"timestamp": "2024-01-02", "event": "purchase", "user_id": 183, "amount": 9}
+{"timestamp": "2024-01-03", "event": "purchase", "user_id": 163, "amount": 99}
